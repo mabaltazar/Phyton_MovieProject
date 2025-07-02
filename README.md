@@ -30,6 +30,5 @@ To understand the relationship between production budget and revenue in the movi
 🗂️ Dataset  
 Movies [dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies) used contains features such as:
 - name, genre, rating, budget, gross, votes, score, runtime, etc.
-> 📍 Note: The dataset was sourced locally and is not included in this repository.
 
 
