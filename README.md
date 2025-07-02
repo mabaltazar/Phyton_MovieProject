@@ -4,7 +4,7 @@ This project explores the correlation between a film's budget and its gross earn
 📊 Objective  
 To understand the relationship between production budget and revenue in the movie industry. By identifying correlations, we aim to answer whether higher budgets generally result in higher gross earnings.  
 
-🧰 Tools & Libraries
+🧰 Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
@@ -15,12 +15,7 @@ To understand the relationship between production budget and revenue in the movi
 - Loaded the movie dataset from CSV  
 - Removed rows with missing values in critical columns like budget and gross  
 - Converted numerical columns to appropriate int64 types  
-- Extracted release year from the full date string in the released column
-  
-📈 Analysis Highlights  
-- Scatter Plot: Budget vs Gross Earnings
-- Seaborn Regression Plot: To visualize trend and linear relationship
-- Correlation Matrix & Heatmap: Quantifying correlations between multiple numerical features
+- Extracted release year from the full date string in the released column  
   
 🔍 Key Insights  
 - Strong positive correlation (0.74) between budget and gross, as visualized in the heatmap
